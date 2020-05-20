@@ -1,0 +1,303 @@
+- tag: EuroVis-2020
+  title: 'Resolving Conflicting Insights in Asynchronous and Remote Collaborative Visual Analysis'
+  authors: 
+    - Jianping Kelvin Li
+    - Shenyu Xu
+    - Chris Ye
+    - Kwan-Liu Ma
+  venue: 'Computer Graphics Forum (Proc: EuroVis 2020)'
+  year: 2020
+  featured: true
+  type: conference
+  doi: preprint
+  pdf: papers/li2020resolving.pdf
+  keywords:
+    - data visualization
+    - collaborative analysis
+    - HCI
+
+- tag: InfoVis-2019
+  featured: true
+  title: 'P5: Portable Progressive Parallel Processing Pipelines for Interactive Data Analysis and Visualization'
+  authors:
+    - Jianping Kelvin Li
+    - Kwan-Liu Ma
+  venue: 'IEEE Transactions on Visualization and Computer Graphics (Proc: InfoVis 2019), vol. 26, no. 1, pp. 1151-1160, Jan. 2020.'
+  year: 2019
+  doi: 10.1109/TVCG.2019.2934537
+  link: https://ieeexplore.ieee.org/document/8809730
+  pdf: papers/p5-infovis.pdf
+  code: http://github.com/jpkli/pv
+  preview: https://vimeo.com/360050527
+  video: https://vimeo.com/371538412
+  type: journal
+  keywords:
+    - data visualization
+    - GPU computing
+
+- tag: VDS-2019
+  title: A Visual Analytics Framework for Analyzing Parallel and Distributed Computing Applications
+  authors:
+    - Jianping Kelvin Li
+    - Takanori Fujiwara
+    - Caitlin Ross
+    - Misbah Mubarak
+    - Robert B. Ross
+    - Christopher D. Carothers
+    - Kwan-Liu Ma
+  venue: 2019 IEEE Visualization in Data Science (VDS), Vancouver, BC, Canada, 2019, pp. 1-9.
+  year: 2019
+  type: workshop
+  doi: 10.1109/VDS48975.2019.8973380
+  link: https://ieeexplore.ieee.org/document/8973380
+  pdf: papers/vds-2019.pdf
+  video: https://vimeo.com/378344811
+  keywords:
+    - data visualization
+    - visual analytics
+    - HPC
+    - machine learning
+
+- tag: TVCG-2018
+  title: 'P4: Portable Parallel Processing Pipelines for Interactive Information Visualization'
+  authors:
+    - Jianping Kelvin Li
+    - Kwan-Liu Ma
+  venue: 'IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 3, pp. 1548-1561, 1 March 2020.'
+  year: 2018
+  type: journal
+  featured: true
+  doi: 10.1109/TVCG.2018.2871139
+  link: https://ieeexplore.ieee.org/document/8468065
+  pdf: papers/p4-tvcg.pdf
+  img: image/p4.jpg
+  website: http://jpkli.github.io/p4
+  code: http://github.com/jpkli/p4
+  demo:  http://jpkli.github.io/demos/p4
+  keywords:
+    - data visualization
+    - GPU computing
+
+- tag: Visual-Informatics-2018
+  featured: false
+  title: A visual analytics system for optimizing the performance of large-scale networks in supercomputing systems
+  authors: 
+    - Takanori Fujiwara
+    - Jianping Kelvin Li
+    - Caitlin Ross
+    - Misbah Mubarak
+    - Robert B. Ross
+    - Christopher D. Carothers
+    - Kwan-Liu Ma
+  venue: 'Journal of Visual Informatics (Proc: PacificVast) 2(1):98-110, 2018.'
+  year: 2018
+  type: journal
+  doi: 10.1016/j.visinf.2018.04.010
+  link: https://www.sciencedirect.com/science/article/pii/S2468502X18300160?via%3Dihub
+  img: image/HpcVA.jpg
+  keywords:
+    - data visualization
+    - visual analytics
+    - HPC
+    - machine learning
+
+- tag: Cluster-2017
+  featured: true
+  title: Visual Analytics Techniques for Exploring the Design Space of Large-Scale High-Radix Networks
+  authors:
+    - Jianping Kelvin Li
+    - Misbah Mubarak
+    - Robert Ross
+    - Christopher D. Carothers
+    - Kwan-Liu Ma
+  venue: '2017 IEEE International Conference on Cluster Computing (CLUSTER), Honolulu, HI, 2017, pp. 193-203'
+  year: 2017
+  type: conference
+  doi: 10.1109/CLUSTER.2017.26
+  link: https://ieeexplore.ieee.org/abstract/document/8048931
+  img: image/hpc.jpg
+  pdf: papers/dfly-vis-cluster.pdf
+  demo: https://havex.github.io/codes-netvis/
+  code: https://github.com/HAVEX/codes-netvis
+  slides: slides/Dfly-Vis-Cluster2017.pdf
+  keywords:
+    - data visualization
+    - visual analytics
+    - HPC
+
+- tag: EuroVis 2018
+  title: 'Chart Constellations: Effective Chart Summarization for Collaborative and Multi‐User Analyse'
+  authors: 
+    - Shenyu Xu*
+    - Chris Bryan*
+    - Jianping Kelvin Li*
+    - Jian Zhao
+    - Kwan-Liu Ma
+  note: '(∗equal contribution)'
+  venue: 'Computer Graphics Forum (Proc: EuroVis 2018). Vol. 37. No. 3. 2018'
+  year: 2018
+  featured: true
+  type: conference
+  doi: 10.1111/cgf.13402
+  link: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13402
+  img: image/ChartConstellation.jpg
+  pdf: papers/constellation-eurovis.pdf
+  video: http://www.youtube.com
+  keywords:
+    - data visualization
+    - collaborative analysis
+    - machine learning
+    - HCI
+    
+- tag: VAHC-2017
+  title: Aiding infection analysis and diagnosis through temporally-contextualized matrix representations
+  authors: 
+    - Maksim Gomov
+    - Jia-Kai Chou
+    - Jianping Kelvin Li
+    - Soman Sen
+    - Kiho Cho
+    - Nam Tran
+    - Kwan-Liu Ma
+  venue: IEEE Workshop on Visual Analytics in Healthcare (VAHC)
+  year: 2017
+  type: workshop
+  doi: 10.1109/VAHC.2017.8387498
+  link: https://ieeexplore.ieee.org/document/8387498/
+  keywords:
+    - data visualization
+    - EHR/EMR
+
+- tag: Cluster-2017
+  title: Quantifying I/O and Communication Traffic Interference on Dragonfly Networks Equipped with Burst Buffers
+  authors: 
+    - Misbah Mubarak
+    - Philip Carns
+    - Jonathan Jenkins
+    - Philip Carns
+    - Jianping Kelvin Li
+    - Nikhil Jain
+    - Shane Snyder
+    - Robert Ross
+    - Christopher D. Carothers
+    - Abhinav Bhatele
+    - Kwan-Liu Ma
+  venue: 'In Proceedings of 2017 IEEE International Conference on Cluster Computing (CLUSTER), Honolulu, HI, 2017, pp. 204-215'
+  year: 2017
+  type: conference
+  doi: 10.1109/CLUSTER.2017.25
+  link: https://ieeexplore.ieee.org/document/8048932
+  keywords:
+    - data analysis
+    - HPC
+
+- tag: WSC-2017
+  title: Toward reliable validation of HPC network simulation models
+  authors: 
+    - Misbah Mubarak
+    - Nikhil Jain
+    - Jens Domke
+    - Noah Wolfe
+    - Jianping Kelvin Li
+    - Abhinav Bhatele
+    - Christopher D. Carothers
+    - Kwan-Liu Ma
+    - Robert Ross
+  venue: 2017 Winter Simulation Conference (WSC), Las Vegas, NV, 2017, pp. 659-674
+  doi: 10.1109/WSC.2017.8247823
+  link: https://ieeexplore.ieee.org/document/8247823
+  year: 2017
+  type: conference
+  keywords:
+    - HPC
+
+- tag: PMBS-2016
+  title: Visual data-analytics of large-scale parallel discrete-event simulations
+  authors:
+    - Caitlin Ross
+    - Christopher D. Carothers
+    - Misbah Mubarak
+    - Philip Carns
+    - Robert Ross
+    - Jianping Kelvin Li
+    - Kwan-Liu Ma
+  venue: '7th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS), Salt Lake City, UT, 2016, pp. 87-97'
+  year: 2016
+  type: workshop
+  doi: 10.1109/PMBS.2016.014
+  link: https://ieeexplore.ieee.org/document/7836417
+  keywords:
+    - data visualization
+    - visual analytics
+    - HPC
+
+- Tag: CLuster-2016
+  title: Evaluation of topology-aware broadcast algorithms for dragonfly networks
+  authors: 
+    - Matthieu Dorier
+    - Misbah Mubarak
+    - Robert Ross
+    - Jianping Kelvin Li
+    - Christopher D. Carothers
+    - Kwan-Liu Ma
+  venue: 'IEEE International Conference on Cluster Computing (CLUSTER), Taipei, 2016, pp. 40-49.'
+  year: 2016
+  type: conference
+  doi: 10.1109/CLUSTER.2016.26
+  link: https://ieeexplore.ieee.org/document/7776477
+  keywords:
+    - distributed systems
+    - HPC
+
+- tag: BMC-2015
+  title: A richly interactive exploratory data analysis and visualization tool using electronic medical records
+  authors:
+    - Chih-Wei Huang
+    - Richard Lu
+    - Usman Iqbal
+    - Shen-Hsien Lin
+    - Phung Anh Alex Nguyen
+    - Hsuan-Chia Yang
+    - Chun-Fu Wang
+    - Jianping Kelvin Li
+    - Kwan-Liu Ma
+  venue: BMC Medical Informatics and Decision Making
+  year: 2015
+  type: journal
+  keywords:
+    - data visualization
+    - EHR/EMR
+
+- tag: vHPC-2015
+  title: High Performance Heterogeneous Computing for Collaborative Visual Analysis
+  authors: 
+    - Jianping Kelvin Li
+    - Jia-Kai Chou
+    - Kwan-Liu Ma
+  venue: SIGGRAPH Asia 2015 Visualization in High Performance Computing
+  year: 2015
+  featured: false
+  link: https://doi.org/10.1145/2818517.2818534
+  doi: 10.1145/2818517.2818534
+  type: conference
+  keywords:
+    - distributed systems
+    - data visualization
+    - EHR/EMR
+
+- tag: BIBM-2014
+  title: A Visual Analysis Approach to Cohort Study of Electronic Patient Records
+  authors:
+    - Chun-Fu Wang
+    - Jianping Kelvin Li
+    - Kwan-Liu Ma 
+    - Chih-Wei Huang
+    - Yu-Chuan Li
+  venue: 2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+  year: 2014
+  type: conference
+  doi: 10.1109/BIBM.2014.6999214
+  link: https://ieeexplore.ieee.org/document/6999214
+  keywords:
+    - data visualization
+    - EHR/EMR
